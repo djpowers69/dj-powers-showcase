@@ -31,12 +31,15 @@ export default function Home() {
 
       <section id="music">
         <h2>Music Videos</h2>
-        <div className="grid grid-2">
+        <div className="grid grid-3">
           <a href="https://x.com/DJpowers69/status/2110080490233593934" target="_blank" rel="noreferrer" className="card card-video">
             Small Steps (Timothy Brown)
           </a>
           <a href="https://x.com/DJpowers69/status/2108269069124460635" target="_blank" rel="noreferrer" className="card card-video">
             Bounce Baby Bounce lyric video
+          </a>
+          <a href="https://shitpostin.grok.me/" target="_blank" rel="noreferrer" className="card card-video">
+            SHITPOSTIN'
           </a>
         </div>
       </section>
