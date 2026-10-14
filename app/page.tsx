@@ -43,12 +43,15 @@ export default function Home() {
 
       <section id="games">
         <h2>Games</h2>
-        <div className="grid grid-2">
+        <div className="grid grid-3">
           <a href="https://megamonster.grok.me" target="_blank" rel="noreferrer" className="card card-video">
             MEGA MAGA MONSTER
           </a>
           <a href="https://khat.grok.me" target="_blank" rel="noreferrer" className="card card-video">
             Khat
+          </a>
+          <a href="https://alphafox.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+            AlphaFox
           </a>
         </div>
       </section>
