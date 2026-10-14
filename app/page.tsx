@@ -50,8 +50,8 @@ export default function Home() {
           <a href="https://khat.grok.me" target="_blank" rel="noreferrer" className="card card-video">
             Khat
           </a>
-          <a href="https://alphafox.grok.me" target="_blank" rel="noreferrer" className="card card-video">
-            AlphaFox
+          <a href="https://magachud.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+            MAGA CHUD
           </a>
         </div>
       </section>
