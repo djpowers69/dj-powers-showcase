@@ -47,7 +47,9 @@ export default function Home() {
           <a href="https://megamonster.grok.me" target="_blank" rel="noreferrer" className="card card-video">
             MEGA MAGA MONSTER
           </a>
-          <div className="card card-video">More coming</div>
+          <a href="https://khat.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+            Khat
+          </a>
         </div>
       </section>
     </main>
