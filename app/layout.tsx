@@ -13,13 +13,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-black text-white min-h-screen">
-        <nav className="border-b border-gray-800 p-4">
-          <div className="max-w-6xl mx-auto flex gap-6">
-            <a href="/" className="font-bold text-xl">DJ POWERS</a>
-            <a href="/#memes" className="hover:text-gray-300">Memes</a>
-            <a href="/#videos" className="hover:text-gray-300">Videos</a>
-            <a href="/#music" className="hover:text-gray-300">Music Videos</a>
+      <body>
+        <nav className="nav">
+          <div className="nav-inner">
+            <a href="/" className="logo">DJ POWERS</a>
+            <a href="/#memes">Memes</a>
+            <a href="/#videos">Videos</a>
+            <a href="/#music">Music Videos</a>
           </div>
         </nav>
         {children}
