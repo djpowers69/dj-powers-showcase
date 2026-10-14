@@ -19,7 +19,8 @@ export default function RootLayout({
             <a href="/" className="logo">DJ POWERS</a>
             <a href="/#memes">Memes</a>
             <a href="/#videos">Videos</a>
-            <a href="/#music">Music Videos</a>
+            <a href="/#music">Music</a>
+            <a href="/#games">Games</a>
             <button id="theme-toggle" style={{marginLeft: "auto", background: "transparent", border: "1px solid #444", color: "#fff", padding: "0.4rem 0.8rem", borderRadius: "4px", cursor: "pointer"}}>
               Dark
             </button>

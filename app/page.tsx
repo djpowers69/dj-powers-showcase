@@ -3,7 +3,7 @@ export default function Home() {
     <main className="main">
       <section className="hero">
         <h1>DJ Powers</h1>
-        <p>Memes · Videos · Music</p>
+        <p>Memes · Videos · Music · Games</p>
       </section>
 
       <section id="memes">
@@ -38,6 +38,16 @@ export default function Home() {
           <a href="https://x.com/DJpowers69/status/2108269069124460635" target="_blank" rel="noreferrer" className="card card-video">
             Bounce Baby Bounce lyric video
           </a>
+        </div>
+      </section>
+
+      <section id="games">
+        <h2>Games</h2>
+        <div className="grid grid-2">
+          <a href="https://megamonster.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+            MEGA MAGA MONSTER
+          </a>
+          <div className="card card-video">More coming</div>
         </div>
       </section>
     </main>
