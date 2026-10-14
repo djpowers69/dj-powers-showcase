@@ -9,10 +9,10 @@ export default function Home() {
       <section id="memes">
         <h2>Memes</h2>
         <div className="grid grid-3">
-          <a href="https://x.com/DJpowers69/status/2109740593098494313" target="_blank" rel="noreferrer" className="card">
-            MEGA MAGA MONSTER game
+          <a href="https://x.com/DJpowers69/status/2109740593098494313" target="_blank" rel="noreferrer" className="card" style={{backgroundImage: "url(https://pbs.twimg.com/media/HUchyQFbkAEHc3A.jpg)", backgroundSize: "cover", backgroundPosition: "center", color: "#fff", textShadow: "0 0 8px #000"}}>
+            MEGA MAGA MONSTER
           </a>
-          <a href="https://x.com/DJpowers69/status/2109137106027368699" target="_blank" rel="noreferrer" className="card">
+          <a href="https://x.com/DJpowers69/status/2109137106027368699" target="_blank" rel="noreferrer" className="card" style={{background: "#222", color: "#fff"}}>
             MEGA MAGA MONSTER clip
           </a>
           <div className="card">More coming</div>
@@ -22,7 +22,7 @@ export default function Home() {
       <section id="videos">
         <h2>Videos</h2>
         <div className="grid grid-2">
-          <a href="https://x.com/DJpowers69/status/2108700848180355370" target="_blank" rel="noreferrer" className="card card-video">
+          <a href="https://x.com/DJpowers69/status/2108700848180355370" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
             Spain / Kling AI
           </a>
           <div className="card card-video">More coming</div>
@@ -32,13 +32,13 @@ export default function Home() {
       <section id="music">
         <h2>Music Videos</h2>
         <div className="grid grid-3">
-          <a href="https://x.com/DJpowers69/status/2110080490233593934" target="_blank" rel="noreferrer" className="card card-video">
-            Small Steps (Timothy Brown)
+          <a href="https://x.com/DJpowers69/status/2110080490233593934" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
+            Small Steps
           </a>
-          <a href="https://x.com/DJpowers69/status/2108269069124460635" target="_blank" rel="noreferrer" className="card card-video">
-            Bounce Baby Bounce lyric video
+          <a href="https://x.com/DJpowers69/status/2108269069124460635" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
+            Bounce Baby Bounce
           </a>
-          <a href="https://shitpostin.grok.me/" target="_blank" rel="noreferrer" className="card card-video">
+          <a href="https://shitpostin.grok.me/" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
             SHITPOSTIN'
           </a>
         </div>
@@ -47,13 +47,13 @@ export default function Home() {
       <section id="games">
         <h2>Games</h2>
         <div className="grid grid-3">
-          <a href="https://megamonster.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+          <a href="https://megamonster.grok.me" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
             MEGA MAGA MONSTER
           </a>
-          <a href="https://khat.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+          <a href="https://khat.grok.me" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
             Khat
           </a>
-          <a href="https://magachud.grok.me" target="_blank" rel="noreferrer" className="card card-video">
+          <a href="https://magachud.grok.me" target="_blank" rel="noreferrer" className="card card-video" style={{background: "#222", color: "#fff"}}>
             MAGA CHUD
           </a>
         </div>
